@@ -88,7 +88,7 @@ In order to flush the DNS cache, you have to use the ipconfig/flushdns option to
 <br />
 
 <p>
-Ping the "mainframe", and a new address should appear.
+Ping the "mainframe". A new address should appear.
 </p>
 <img src="https://i.imgur.com/WKZB91W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
