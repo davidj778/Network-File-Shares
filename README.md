@@ -49,7 +49,7 @@ In order to create a DNS A-record on the Domain controller, you have to point it
 <br />
 
 <p>
-Go to Client-1 and try to ping it. Observe that it works
+Go back to client-1 and use the ping command to insure connectivity.
 </p>
 <img src="https://i.imgur.com/BigO9GT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
