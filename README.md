@@ -81,14 +81,14 @@ Use the ipconfig/displaydns to observe the local dns cache
 <br />
 
 <p>
-Flush the DNS cache (ipconfig /flushdns). Observe that the cache is empty
+In order to flush the DNS cache, you have to use the ipconfig/flushdns option to reset the cache. Confirm that the cache is empty.
 </p>
 <img src="https://i.imgur.com/Zxb6IoO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Attempt to ping “mainframe” again. Observe the address of the new record is showing up
+Ping the "mainframe", and a new address should appear.
 </p>
 <img src="https://i.imgur.com/WKZB91W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
