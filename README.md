@@ -36,9 +36,8 @@ Local DNS Cache Exercise
 <p>
 
 <p>
-With remote desktop, log into Client-1 with (mydomain\john_admin)
+With remote desktop, log into Client-1 with (mydomain\john_admin). You can confirm that you are logged in as john_admin by using the command prompt and typing in "whoami".
 </p>
-<img src="https://i.imgur.com/KVFkXwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
