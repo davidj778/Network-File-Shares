@@ -60,21 +60,21 @@ Go back to client-1 and use the ping command to insure connectivity.
 </h2>
 
 <p>
-Go back to DC-1 and change mainframe’s record address to 8.8.8.8
+Go to the Domain controller and right click the "mainframe" option, select "New Host", then change the mainframe's record address to 8.8.8.8.
 </p>
 <img src="https://i.imgur.com/cYJbS7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Go back to Client-1 and ping “mainframe” again. Observe that it still pings the old address
+Go to Client-1 and use cmd to ping “mainframe”. Notice how it still pings the old address.
 </p>
 <img src="https://i.imgur.com/1bqGoR7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Observe the local dns cache (ipconfig /displaydns)
+Use the ipconfig/displaydns to observe the local dns cache
 </p>
 <img src="https://i.imgur.com/vgwPvQ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
