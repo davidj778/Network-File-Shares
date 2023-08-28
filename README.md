@@ -36,14 +36,14 @@ Local DNS Cache Exercise
 <p>
 
 <p>
-Connect/log into Client-1 as an admin (mydomain\john_admin)
+With remote desktop, log into Client-1 with (mydomain\john_admin)
 </p>
 <img src="https://i.imgur.com/KVFkXwb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Create a DNS A-record on DC-1 for “mainframe” and have it point to DC-1’s Private IP address
+In order to create a DNS A-record on the Domain controller, you have to point it to the Domain controllers private IP address.
 </p>
 <img src="https://i.imgur.com/q5Og6Yw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
